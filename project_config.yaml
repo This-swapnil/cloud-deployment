@@ -12,7 +12,7 @@ cloud_storage:
     connection_str: DefaultEndpointsProtocol=https;AccountName=ineuronstorage327030;AccountKey=EoKopRrOYEPLQl8K2hxyvh2mxR9Z0cLkFkiiGfkAB1FbfOScZdiUFgW7/kr9TBFS0a3uUgfOT/J28w+xv6tbtw==;EndpointSuffix=core.windows.net
   aws_s3_bucket:
     name: aws_access_key
-    Access Key ID: AKIASIH3G6A5ER4HEV5T
+    Access Key ID: 
     Secret Access Key: 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
     description: AWS credentials
 
