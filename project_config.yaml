@@ -1,0 +1,43 @@
+root_folder: machine-learning-0098
+
+mongodb:
+  is_cloud: 1
+  user_name: swapnil
+  password: swapnil
+  url: mongodb+srv://{0}:{1}@pymongo.fukkl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+
+cloud_storage:
+  azure_blob_storage:
+    connection_str: DefaultEndpointsProtocol=https;AccountName=ineuronstorage327030;AccountKey=EoKopRrOYEPLQl8K2hxyvh2mxR9Z0cLkFkiiGfkAB1FbfOScZdiUFgW7/kr9TBFS0a3uUgfOT/J28w+xv6tbtw==;EndpointSuffix=core.windows.net
+  aws_s3_bucket:
+    name: aws_access_key
+    Access Key ID: AKIASIH3G6A5ER4HEV5T
+    Secret Access Key: 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
+    description: AWS credentials
+
+  gcp: gcp.json
+    
+watcher_checkpoint_storage_account_connection_str:
+  connection_str: DefaultEndpointsProtocol=https;AccountName=storageaccountrgai1a757;AccountKey=j4TYtRYwIDyUNL4lKXXIfYgCftrTbJPhPHC8i/j66XSf6s81ruCaQqDnjh5WDMjrqqc4hulvZ8wxcYQb8KfukA==;EndpointSuffix=core.windows.net
+
+azure_input_file_storage_connection_str:
+  connection_str: DefaultEndpointsProtocol=https;AccountName=inputfilestorage;AccountKey=u2jUt3DLgsPiZO8S7kZ1yk4B7FJ6gCtdTeckaige1AXTnyPA1zby1w0n6HUi/2cdOAoo5E1jXrEeofyI6UDtFw==;EndpointSuffix=core.windows.net
+
+event_hub_name_space:
+  connection_str: Endpoint=sb://avnish327030.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=BwK0zozJe+Oz46F5BgpHUtq5zkzqMKCzPdc2kOg2WW8=
+
+
+session:
+  secret-key: ec6935d1-0e2c-4998-b7ed-809e8cb0fcda
+
+user_detail:
+  email_id: sonawaneswapnil645@gmail.com
+  role_id: 1
+
+email_config:
+  sender_email_id: sonawaneswapnil645@gmail.comm
+  passkey: hvisqnpnehvifpls
+  receiver_email_id:
+    - sonawaneswapnil645@gmail.com
+    - sonawaneswapnil645@gmail.com

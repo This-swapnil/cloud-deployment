@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shaped-apogee-331305",
+  "private_key_id": "f07a65e119afd7a2586234a6297d3905a04af7a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQ7fBn+s2215fx\nqw4hiFkz5GEv9GtPl0At6OFKckdK07i1xAGQUGA3fABcnyaiJ9gkEc5xZR+pm+tZ\nvlUCyEX9awThLoLyOjPFAYvwSWv2IoFiUHE7U5skvcUDBmIvvcUgriTQq+yEiviI\nOEC4WiBydICaCTuftFjRDAHUc02Tgyhz6zN0kI9F/yPAIIf5UUNuzRDhGiFXRWNA\njaMB+3tbItpXAqTMvj02J4UBjCvo4dXCGIGiNLV+0YJX2XnUxGy55akKNnG8ySoJ\n6vmJhfPmagD2aFCvGVuuYGPDU8eROQE+wUhlRb5RMQOsNOXuHuU3gL9s5dMg79X2\nfVamU0ArAgMBAAECggEAGJO6MVZyLI1f9QXHkRpA+WG8LQVLj6lIhh4G99hJmqZy\nlq81Soyp74eeuJvgJ43DAeXhAGXXkP7Oc1gjF+4HOFsGepbGFfMoHodNYY7Bgcq9\nUvCzi+Rh3l3pzFlL44x8oUOFq9ENmZSKIpFmIPQ5LOhCLdyNhFPqvsHy1ShbJSbq\nI6hz8vdp+PKVIDeEDgHQ8VXAUVZYOAGGnF6P8Dw3bLl9GQqo9xZccnVugt6fg4Eg\nb2FmcZig79rB5Ewhp0MYxHWh9rzJioR4e7bw/54vxeSW5dsywxQ6IyTqH1buF5RD\ny/a0lfCzp8GcREzlzkOGvsEWN4Pim0/0Mskf5jkxgQKBgQDzBDi6jHij2LHPtl5P\n/e+k7yJm6HdXrzBwdD4SN/Jz1C1X51oeC+Lf/mBuTyl1taYA0js5gpIP+cijQSX1\nGpGThh4Yr9SgmwkUaXPjK18wEouUfVrNdUtzRwBQPkz6ldwFDmxeC7vl3daZHQun\n2dOAwJmue0hKFL6AKXLOGAZdIwKBgQDcF4DO8++kZbZp0TKf7yS7LEuYHUBx3nuJ\nOh50Oi33YTTDQoForTiUROjLVIdK5QWvX+iZlEmRqxPLMje0QUH9WH4egkV4sVtk\nKkTmVSV0+Hj2cTDS49rtvNux+P41QWrGhP3aFEsZQSWu/V424+bPRPcxxq/iKABL\nWXucrbMVWQKBgQDRqYy/9b2HrscJ689GuFFvPRmzK1D7h5wFCWUcFsTJBf/w3Rs0\n3RBqLG9J/GZKteN4xehu36XgvqJJp0V2R+vdGVMR/XE290tIHwrqrVq8gOOHwvb6\nV/42gMVWdcm4UF64xg7cvMbptREWnKaXtCjz5jcxABAISglpTVlNUhD7fQKBgH3H\nHMConWI5Emcku6a01yv0Y3sZ9HNerwC8ax0HBq/iKHISNrxoifYJ73QL6Yl+mqIf\n0GC8YtLRju1H1Je514l+Ig0za5pO2SjEEz4CmPZg7VgBVeKffsTwcikiX7x1lxy+\ncghIIqbbGTsI5ue9lHENO6uBnZBERe7Jw5/FkJt5AoGAY5bxwSjJgh0LCpb3zKiv\nJQ8vmaac4JAkW3PXGLHml06XgYjYBLCoIWsdj25bwTLDkgH9P4JFKeC1OQ8+7lDG\nu535juXoxrnhlOCtVSgMHOAKGkTbljPAuHkyotGkXLzU8JNfGZ3Mk4Y1xruMPV8y\n7NxA7OFB69eqG5622b+nrZE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "swapnil-project@shaped-apogee-331305.iam.gserviceaccount.com",
+  "client_id": "116234779247464422798",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/swapnil-project%40shaped-apogee-331305.iam.gserviceaccount.com"
+}
