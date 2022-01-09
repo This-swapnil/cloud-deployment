@@ -13,10 +13,10 @@ cloud_storage:
   aws_s3_bucket:
     name: aws_access_key
     Access Key ID: 
-    Secret Access Key: 1I2M4dXRI8F5JQVLD8Bhym2BlLObjcbHFSzd6Gc5
+    Secret Access Key: 
     description: AWS credentials
 
-  gcp: gcp.json
+  gcp: 
     
 watcher_checkpoint_storage_account_connection_str:
   connection_str: DefaultEndpointsProtocol=https;AccountName=storageaccountrgai1a757;AccountKey=j4TYtRYwIDyUNL4lKXXIfYgCftrTbJPhPHC8i/j66XSf6s81ruCaQqDnjh5WDMjrqqc4hulvZ8wxcYQb8KfukA==;EndpointSuffix=core.windows.net
